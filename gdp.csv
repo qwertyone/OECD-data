@@ -1,0 +1,565 @@
+"Country","Transaction","TIME","Year","Unit","PowerCode","GDP"
+"3735","Germany","Gross domestic product (output approach)",2009,2009,"Euro","millions",2474974.55
+"3737","Germany","Gross domestic product (output approach)",2011,2011,"Euro","millions",2668706.3
+"3739","Germany","Gross domestic product (output approach)",2013,2013,"Euro","millions",2681587.4
+"3741","Germany","Gross value added at basic prices, excluding FISIM",2008,2008,"Euro","millions",2366687.09
+"3743","Germany","Gross value added at basic prices, excluding FISIM",2010,2010,"Euro","millions",2317328
+"3745","Germany","Gross value added at basic prices, excluding FISIM",2012,2012,"Euro","millions",2410716.32
+"3747","Germany","Gross value added at basic prices, excluding FISIM",2014,2014,"Euro","millions",2450110.89
+"3749","Germany","Domestic demand",2009,2009,"Euro","millions",2372293.3818578
+"3751","Germany","Domestic demand",2011,2011,"Euro","millions",2516259
+"3753","Germany","Domestic demand",2013,2013,"Euro","millions",2509409.59372995
+"3755","Germany","Exports of goods and services",2008,2008,"Euro","millions",1109698.54
+"3757","Germany","Exports of goods and services",2010,2010,"Euro","millions",1089649
+"3759","Germany","Exports of goods and services",2012,2012,"Euro","millions",1210055.21
+"3761","Germany","Exports of goods and services",2014,2014,"Euro","millions",1275543.12
+"3763","Germany","Gross value added at basic prices, total activity",2009,2009,"Euro","millions",2221158.89
+"3765","Germany","Gross value added at basic prices, total activity",2011,2011,"Euro","millions",2399824.88
+"3767","Germany","Gross value added at basic prices, total activity",2013,2013,"Euro","millions",2413265.38
+"3769","Germany","Taxes on products",2008,2008,"Euro","millions",267339.04
+"3771","Germany","Taxes on products",2010,2010,"Euro","millions",266327
+"3773","Germany","Taxes on products",2012,2012,"Euro","millions",274263.54
+"3775","Germany","Taxes on products",2014,2014,"Euro","millions",281161.41
+"3777","Germany","Households and Non-profit institutions serving households",2009,2009,"Euro","millions",1437033.75
+"3779","Germany","Households and Non-profit institutions serving households",2011,2011,"Euro","millions",1478670.14
+"3781","Germany","Households and Non-profit institutions serving households",2013,2013,"Euro","millions",1500644.9
+"3783","Germany","Gross fixed capital formation",2008,2008,"Euro","millions",526211.1
+"3785","Germany","Gross fixed capital formation",2010,2010,"Euro","millions",498023
+"3787","Germany","Gross fixed capital formation",2012,2012,"Euro","millions",530593.7
+"3789","Germany","Gross fixed capital formation",2014,2014,"Euro","millions",544787.36
+"3791","Germany","Final consumption expenditure of households",2009,2009,"Euro","millions",1398675.84
+"3793","Germany","Final consumption expenditure of households",2011,2011,"Euro","millions",1439478.17
+"3795","Germany","Final consumption expenditure of households",2013,2013,"Euro","millions",1460301.43
+"3797","Germany","Individual consumption expenditure of general government",2008,2008,"Euro","millions",300272.94
+"3799","Germany","Individual consumption expenditure of general government",2010,2010,"Euro","millions",315181
+"3801","Germany","Individual consumption expenditure of general government",2012,2012,"Euro","millions",322650.79
+"3803","Germany","Individual consumption expenditure of general government",2014,2014,"Euro","millions",330719.42
+"3805","Germany","of which: Manufacturing (ISIC rev4)",2009,2009,"Euro","millions",429775.56
+"3807","Germany","of which: Manufacturing (ISIC rev4)",2011,2011,"Euro","millions",555131.01
+"3809","Germany","of which: Manufacturing (ISIC rev4)",2013,2013,"Euro","millions",554060.9
+"3811","Germany","Exports of goods",2008,2008,"Euro","millions",946992.21
+"3813","Germany","Exports of goods",2010,2010,"Euro","millions",918340
+"3815","Germany","Exports of goods",2012,2012,"Euro","millions",1026336.78
+"3817","Germany","Exports of goods",2014,2014,"Euro","millions",1083457.53
+"3819","Germany","Imports of goods",2009,2009,"Euro","millions",663179.87
+"3821","Germany","Imports of goods",2011,2011,"Euro","millions",816990.34
+"3823","Germany","Imports of goods",2013,2013,"Euro","millions",826608.23
+"3825","Germany","Transport equipment",2008,2008,"Euro","millions",59531.63
+"3827","Germany","Transport equipment",2010,2010,"Euro","millions",55893
+"3829","Germany","Transport equipment",2012,2012,"Euro","millions",47687.91
+"3831","Germany","Transport equipment",2014,2014,"Euro","millions",26633.01
+"3833","Germany","Imports of services",2009,2009,"Euro","millions",183795.69
+"3835","Germany","Imports of services",2011,2011,"Euro","millions",207470.86
+"3837","Germany","Imports of services",2013,2013,"Euro","millions",230291.26
+"3839","Germany","Exports of services",2008,2008,"Euro","millions",162794.94
+"3841","Germany","Exports of services",2010,2010,"Euro","millions",171309
+"3843","Germany","Exports of services",2012,2012,"Euro","millions",183763.16
+"3845","Germany","Exports of services",2014,2014,"Euro","millions",192208.7
+"3847","Germany","Acquisitions less disposals of valuables",2009,2009,"Euro","millions",1972.01
+"3849","Germany","Acquisitions less disposals of valuables",2011,2011,"Euro","millions",2772.99
+"3851","Germany","Acquisitions less disposals of valuables",2013,2013,"Euro","millions",2487.07
+"3853","Germany","Collective consumption expenditure of general government",2008,2008,"Euro","millions",173143.94
+"3855","Germany","Collective consumption expenditure of general government",2010,2010,"Euro","millions",178720
+"3857","Germany","Collective consumption expenditure of general government",2012,2012,"Euro","millions",180757.41
+"3859","Germany","Collective consumption expenditure of general government",2014,2014,"Euro","millions",182115.68
+"3861","Germany","Final consumption expenditure of non-profit institutions serving households",2009,2009,"Euro","millions",38382.42
+"3863","Germany","Final consumption expenditure of non-profit institutions serving households",2011,2011,"Euro","millions",39199.65
+"3865","Germany","Final consumption expenditure of non-profit institutions serving households",2013,2013,"Euro","millions",40470.02
+"3867","Germany","Subsidies on products",2008,2008,"Euro","millions",11011.24
+"3869","Germany","Subsidies on products",2010,2010,"Euro","millions",7435
+"3871","Germany","Subsidies on products",2012,2012,"Euro","millions",6338.34
+"3873","Germany","Subsidies on products",2014,2014,"Euro","millions",6597.08
+"3875","Germany","Final consumption expenditure of general government",2009,2009,"Euro","millions",487579.07
+"3877","Germany","Final consumption expenditure of general government",2011,2011,"Euro","millions",497210.14
+"3879","Germany","Final consumption expenditure of general government",2013,2013,"Euro","millions",507038.77
+"3881","Germany","Imports of goods and services",2008,2008,"Euro","millions",937167.26
+"3883","Germany","Imports of goods and services",2010,2010,"Euro","millions",956098
+"3885","Germany","Imports of goods and services",2012,2012,"Euro","millions",1024267.79
+"3887","Germany","Imports of goods and services",2014,2014,"Euro","millions",1092820.01
+"3889","Germany","Final consumption expenditure",2009,2009,"Euro","millions",1924674.01
+"3891","Germany","Final consumption expenditure",2011,2011,"Euro","millions",1975879.69
+"3893","Germany","Final consumption expenditure",2013,2013,"Euro","millions",2007689.28
+"3895","Germany","Taxes less subsidies on products",2008,2008,"Euro","millions",256380.75
+"3897","Germany","Taxes less subsidies on products",2010,2010,"Euro","millions",258892
+"3899","Germany","Taxes less subsidies on products",2012,2012,"Euro","millions",267927.33
+"3901","Germany","Taxes less subsidies on products",2014,2014,"Euro","millions",274554.97
+"3903","Germany","Gross domestic product (expenditure approach)",2009,2009,"Euro","millions",2474974.55
+"3905","Germany","Gross domestic product (expenditure approach)",2011,2011,"Euro","millions",2668706.3
+"3907","Germany","Gross domestic product (expenditure approach)",2013,2013,"Euro","millions",2681587.4
+"3909","Germany","Statistical discrepancy",2008,2008,"Euro","millions",-218.26
+"3911","Germany","Statistical discrepancy",2010,2010,"Euro","millions",0
+"3913","Germany","Statistical discrepancy",2012,2012,"Euro","millions",109.91
+"3915","Germany","Statistical discrepancy",2014,2014,"Euro","millions",-55.59
+"3917","Germany","Gross capital formation",2009,2009,"Euro","millions",448176.15
+"3919","Germany","Gross capital formation",2011,2011,"Euro","millions",540336.75
+"3921","Germany","Gross capital formation",2013,2013,"Euro","millions",502104.19
+"3923","Germany","of which: Actual individual consumption",2008,2008,"Euro","millions",1737117
+"3925","Germany","of which: Actual individual consumption",2010,2010,"Euro","millions",1760889
+"3927","Germany","of which: Actual individual consumption",2012,2012,"Euro","millions",1811074.34
+"3929","Germany","of which: Actual individual consumption",2014,2014,"Euro","millions",1848405.18
+"3931","Germany","External balance of goods and services",2009,2009,"Euro","millions",104174.1
+"3933","Germany","External balance of goods and services",2011,2011,"Euro","millions",152470.87
+"3935","Germany","External balance of goods and services",2013,2013,"Euro","millions",172827
+"3937","Germany","Statistical discrepancy",2008,2008,"Euro","millions",-1000.59
+"3939","Germany","Statistical discrepancy",2010,2010,"Euro","millions",0
+"3941","Germany","Statistical discrepancy",2012,2012,"Euro","millions",-160.67
+"3943","Germany","Statistical discrepancy",2014,2014,"Euro","millions",-1458.56
+"3945","Germany","Agriculture, forestry and fishing (ISIC rev4)",2009,2009,"Euro","millions",22573.51
+"3947","Germany","Agriculture, forestry and fishing (ISIC rev4)",2011,2011,"Euro","millions",14790.25
+"3949","Germany","Agriculture, forestry and fishing (ISIC rev4)",2013,2013,"Euro","millions",16576.34
+"3951","Germany","Dwellings",2008,2008,"Euro","millions",132213.2
+"3953","Germany","Dwellings",2010,2010,"Euro","millions",133266
+"3955","Germany","Dwellings",2012,2012,"Euro","millions",151536.77
+"3957","Germany","Dwellings",2014,2014,"Euro","millions",158293.35
+"3959","Germany","Other buildings and structures",2009,2009,"Euro","millions",102080.06
+"3961","Germany","Other buildings and structures",2011,2011,"Euro","millions",110305.46
+"3963","Germany","Other buildings and structures",2013,2013,"Euro","millions",105974.66
+"3965","Germany","Industry, including energy (ISIC rev4)",2008,2008,"Euro","millions",606942.41
+"3967","Germany","Industry, including energy (ISIC rev4)",2010,2010,"Euro","millions",594517
+"3969","Germany","Industry, including energy (ISIC rev4)",2012,2012,"Euro","millions",637797.84
+"3971","Germany","Industry, including energy (ISIC rev4)",2014,2014,"Euro","millions",647607.37
+"3973","Germany","Construction (ISIC rev4)",2009,2009,"Euro","millions",93406.63
+"3975","Germany","Construction (ISIC rev4)",2011,2011,"Euro","millions",104579.62
+"3977","Germany","Construction (ISIC rev4)",2013,2013,"Euro","millions",104358.38
+"3979","Germany","Distributive trade, repairs; transport; accommod., food serv. (ISIC rev4)",2008,2008,"Euro","millions",398845.97
+"3981","Germany","Distributive trade, repairs; transport; accommod., food serv. (ISIC rev4)",2010,2010,"Euro","millions",370916
+"3983","Germany","Distributive trade, repairs; transport; accommod., food serv. (ISIC rev4)",2012,2012,"Euro","millions",376776.47
+"3985","Germany","Distributive trade, repairs; transport; accommod., food serv. (ISIC rev4)",2014,2014,"Euro","millions",382191.85
+"3987","Germany","Information and communication (ISIC rev4)",2009,2009,"Euro","millions",102535.71
+"3989","Germany","Information and communication (ISIC rev4)",2011,2011,"Euro","millions",114090.77
+"3991","Germany","Information and communication (ISIC rev4)",2013,2013,"Euro","millions",121482.31
+"3993","Germany","Intellectual property product",2008,2008,"Euro","millions",84184.8
+"3995","Germany","Intellectual property product",2010,2010,"Euro","millions",86149
+"3997","Germany","Intellectual property product",2012,2012,"Euro","millions",92119.13
+"3999","Germany","Intellectual property product",2014,2014,"Euro","millions",94470.99
+"4001","Germany","Financial and insurance activities (ISIC rev4)",2009,2009,"Euro","millions",103029.55
+"4003","Germany","Financial and insurance activities (ISIC rev4)",2011,2011,"Euro","millions",106430.77
+"4005","Germany","Financial and insurance activities (ISIC rev4)",2013,2013,"Euro","millions",106969.48
+"4007","Germany","Real estate activities (ISIC rev4)",2008,2008,"Euro","millions",266829.04
+"4009","Germany","Real estate activities (ISIC rev4)",2010,2010,"Euro","millions",269008
+"4011","Germany","Real estate activities (ISIC rev4)",2012,2012,"Euro","millions",272585.81
+"4013","Germany","Real estate activities (ISIC rev4)",2014,2014,"Euro","millions",277374.15
+"4015","Germany","Prof., scientific, techn.; admin., support serv. activities (ISIC rev4)",2009,2009,"Euro","millions",235625.63
+"4017","Germany","Prof., scientific, techn.; admin., support serv. activities (ISIC rev4)",2011,2011,"Euro","millions",250609.73
+"4019","Germany","Prof., scientific, techn.; admin., support serv. activities (ISIC rev4)",2013,2013,"Euro","millions",254435.46
+"4021","Germany","Public admin.; compulsory s.s.; education; human health (ISIC rev4)",2008,2008,"Euro","millions",400399.61
+"4023","Germany","Public admin.; compulsory s.s.; education; human health (ISIC rev4)",2010,2010,"Euro","millions",414707
+"4025","Germany","Public admin.; compulsory s.s.; education; human health (ISIC rev4)",2012,2012,"Euro","millions",423623.2
+"4027","Germany","Public admin.; compulsory s.s.; education; human health (ISIC rev4)",2014,2014,"Euro","millions",428350.86
+"4029","Germany","Other service activities (ISIC rev4)",2009,2009,"Euro","millions",97417.35
+"4031","Germany","Other service activities (ISIC rev4)",2011,2011,"Euro","millions",97407.68
+"4033","Germany","Other service activities (ISIC rev4)",2013,2013,"Euro","millions",95907.76
+"4035","Germany","Gross domestic product (output approach)",2008,2008,"Percentage","units",1.05210910408623
+"4037","Germany","Gross domestic product (output approach)",2010,2010,"Percentage","units",4.09076731718312
+"4039","Germany","Gross domestic product (output approach)",2012,2012,"Percentage","units",0.376484291283758
+"4041","Germany","Gross domestic product (output approach)",2014,2014,"Percentage","units",1.60438067392471
+"4043","Germany","Gross value added at basic prices, excluding FISIM",2009,2009,"Percentage","units",-6.14902580974488
+"4045","Germany","Gross value added at basic prices, excluding FISIM",2011,2011,"Percentage","units",3.56000013809008
+"4047","Germany","Gross value added at basic prices, excluding FISIM",2013,2013,"Percentage","units",0.105738695957391
+"4049","Germany","Domestic demand",2008,2008,"Percentage","units",1.10431762286424
+"4051","Germany","Domestic demand",2010,2010,"Percentage","units",2.96656470402861
+"4053","Germany","Domestic demand",2012,2012,"Percentage","units",-0.938040288042026
+"4055","Germany","Domestic demand",2014,2014,"Percentage","units",1.33828125295232
+"4057","Germany","Exports of goods and services",2009,2009,"Percentage","units",-14.2674784450919
+"4059","Germany","Exports of goods and services",2011,2011,"Percentage","units",8.00999955031391
+"4061","Germany","Exports of goods and services",2013,2013,"Percentage","units",1.57586693916222
+"4063","Germany","Gross value added at basic prices, total activity",2008,2008,"Percentage","units",1.14885631889631
+"4065","Germany","Gross value added at basic prices, total activity",2010,2010,"Percentage","units",4.32968170052886
+"4067","Germany","Gross value added at basic prices, total activity",2012,2012,"Percentage","units",0.453843115419322
+"4069","Germany","Gross value added at basic prices, total activity",2014,2014,"Percentage","units",1.52679064247795
+"4071","Germany","Households and Non-profit institutions serving households",2009,2009,"Percentage","units",0.0301900311794506
+"4073","Germany","Households and Non-profit institutions serving households",2011,2011,"Percentage","units",2.27999983399137
+"4075","Germany","Households and Non-profit institutions serving households",2013,2013,"Percentage","units",0.815850330388769
+"4077","Germany","Gross fixed capital formation",2008,2008,"Percentage","units",1.22628770847352
+"4079","Germany","Gross fixed capital formation",2010,2010,"Percentage","units",5.07512851750968
+"4081","Germany","Gross fixed capital formation",2012,2012,"Percentage","units",-0.717547837270959
+"4083","Germany","Gross fixed capital formation",2014,2014,"Percentage","units",3.2858086253083
+"4085","Germany","Final consumption expenditure of households",2009,2009,"Percentage","units",-0.0402211594172468
+"4087","Germany","Final consumption expenditure of households",2011,2011,"Percentage","units",2.31000009239668
+"4089","Germany","Final consumption expenditure of households",2013,2013,"Percentage","units",0.806138367821061
+"4091","Germany","Individual consumption expenditure of general government",2008,2008,"Percentage","units",3.87047695927561
+"4093","Germany","Individual consumption expenditure of general government",2010,2010,"Percentage","units",1.64667543250091
+"4095","Germany","Individual consumption expenditure of general government",2012,2012,"Percentage","units",1.0762234093276
+"4097","Germany","Individual consumption expenditure of general government",2014,2014,"Percentage","units",1.72564172284266
+"4099","Germany","of which: Manufacturing (ISIC rev4)",2009,2009,"Percentage","units",-19.322747092408
+"4101","Germany","of which: Manufacturing (ISIC rev4)",2011,2011,"Percentage","units",8.94000098120983
+"4103","Germany","of which: Manufacturing (ISIC rev4)",2013,2013,"Percentage","units",0.267429445412132
+"4105","Germany","Exports of goods",2008,2008,"Percentage","units",1.34643756047593
+"4107","Germany","Exports of goods",2010,2010,"Percentage","units",16.3873367627173
+"4109","Germany","Exports of goods",2012,2012,"Percentage","units",2.69227215664714
+"4111","Germany","Exports of goods",2014,2014,"Percentage","units",4.20420381140733
+"4113","Germany","Imports of goods",2009,2009,"Percentage","units",-10.0924029245042
+"4115","Germany","Imports of goods",2011,2011,"Percentage","units",7.879999577454
+"4117","Germany","Imports of goods",2013,2013,"Percentage","units",2.0093456709854
+"4119","Germany","Imports of services",2008,2008,"Percentage","units",1.19215944182756
+"4121","Germany","Imports of services",2010,2010,"Percentage","units",8.15487566656215
+"4123","Germany","Imports of services",2012,2012,"Percentage","units",3.23847888807132
+"4125","Germany","Imports of services",2014,2014,"Percentage","units",-0.15537280919823
+"4127","Germany","Exports of services",2009,2009,"Percentage","units",-0.294640607380057
+"4129","Germany","Exports of services",2011,2011,"Percentage","units",3.58999819040447
+"4131","Germany","Exports of services",2013,2013,"Percentage","units",3.10431644732274
+"4133","Germany","Collective consumption expenditure of general government",2008,2008,"Percentage","units",2.51852088691838
+"4135","Germany","Collective consumption expenditure of general government",2010,2010,"Percentage","units",0.684657927367557
+"4137","Germany","Collective consumption expenditure of general government",2012,2012,"Percentage","units",1.54618586251901
+"4139","Germany","Collective consumption expenditure of general government",2014,2014,"Percentage","units",0.108064524729098
+"4141","Germany","Final consumption expenditure of non-profit institutions serving households",2009,2009,"Percentage","units",2.89688200284008
+"4143","Germany","Final consumption expenditure of non-profit institutions serving households",2011,2011,"Percentage","units",1.21001265136454
+"4145","Germany","Final consumption expenditure of non-profit institutions serving households",2013,2013,"Percentage","units",1.43675683262818
+"4147","Germany","Final consumption expenditure of general government",2008,2008,"Percentage","units",3.36424384227543
+"4149","Germany","Final consumption expenditure of general government",2010,2010,"Percentage","units",1.29659585264806
+"4151","Germany","Final consumption expenditure of general government",2012,2012,"Percentage","units",1.24168022800179
+"4153","Germany","Final consumption expenditure of general government",2014,2014,"Percentage","units",1.14942492464629
+"4155","Germany","Imports of goods and services",2009,2009,"Percentage","units",-9.60008141983108
+"4157","Germany","Imports of goods and services",2011,2011,"Percentage","units",7.15000031377537
+"4159","Germany","Imports of goods and services",2013,2013,"Percentage","units",3.12704161086625
+"4161","Germany","Final consumption expenditure",2008,2008,"Percentage","units",1.21274375999197
+"4163","Germany","Final consumption expenditure",2010,2010,"Percentage","units",0.775975044210214
+"4165","Germany","Final consumption expenditure",2012,2012,"Percentage","units",0.814763676223627
+"4167","Germany","Final consumption expenditure",2014,2014,"Percentage","units",1.13998616359599
+"4169","Germany","Gross domestic product (expenditure approach)",2009,2009,"Percentage","units",-5.63795313035069
+"4171","Germany","Gross domestic product (expenditure approach)",2011,2011,"Percentage","units",3.59000007763312
+"4173","Germany","Gross domestic product (expenditure approach)",2013,2013,"Percentage","units",0.105789500098695
+"4175","Germany","Gross capital formation",2008,2008,"Percentage","units",0.720905904597819
+"4177","Germany","Gross capital formation",2010,2010,"Percentage","units",12.2460443287756
+"4179","Germany","Gross capital formation",2012,2012,"Percentage","units",-7.25258461505718
+"4181","Germany","Gross capital formation",2014,2014,"Percentage","units",2.12403525252398
+"4183","Germany","of which: Actual individual consumption",2009,2009,"Percentage","units",0.577800459036438
+"4185","Germany","of which: Actual individual consumption",2011,2011,"Percentage","units",2.1000000567895
+"4187","Germany","of which: Actual individual consumption",2013,2013,"Percentage","units",0.816722962349519
+"4189","Germany","Agriculture, forestry and fishing (ISIC rev4)",2008,2008,"Percentage","units",19.7546619573385
+"4191","Germany","Agriculture, forestry and fishing (ISIC rev4)",2010,2010,"Percentage","units",-23.9196739895568
+"4193","Germany","Agriculture, forestry and fishing (ISIC rev4)",2012,2012,"Percentage","units",14.2707526918071
+"4195","Germany","Agriculture, forestry and fishing (ISIC rev4)",2014,2014,"Percentage","units",7.06591442984398
+"4197","Germany","Industry, including energy (ISIC rev4)",2009,2009,"Percentage","units",-15.2806359338112
+"4199","Germany","Industry, including energy (ISIC rev4)",2011,2011,"Percentage","units",5.76000013456302
+"4201","Germany","Industry, including energy (ISIC rev4)",2013,2013,"Percentage","units",0.205071249535746
+"4203","Germany","Construction (ISIC rev4)",2008,2008,"Percentage","units",-0.135759067011024
+"4205","Germany","Construction (ISIC rev4)",2010,2010,"Percentage","units",7.66580487916115
+"4207","Germany","Construction (ISIC rev4)",2012,2012,"Percentage","units",0.0961659642672253
+"4209","Germany","Construction (ISIC rev4)",2014,2014,"Percentage","units",2.83318886322306
+"4211","Germany","Distributive trade, repairs; transport; accommod., food serv. (ISIC rev4)",2009,2009,"Percentage","units",-5.80302967584203
+"4213","Germany","Distributive trade, repairs; transport; accommod., food serv. (ISIC rev4)",2011,2011,"Percentage","units",3.95999902942984
+"4215","Germany","Distributive trade, repairs; transport; accommod., food serv. (ISIC rev4)",2013,2013,"Percentage","units",0
+"4217","Germany","Information and communication (ISIC rev4)",2008,2008,"Percentage","units",6.20987573552726
+"4219","Germany","Information and communication (ISIC rev4)",2010,2010,"Percentage","units",0.260679913368718
+"4221","Germany","Information and communication (ISIC rev4)",2012,2012,"Percentage","units",5.26220482165209
+"4223","Germany","Information and communication (ISIC rev4)",2014,2014,"Percentage","units",2.21713762275347
+"4225","Germany","Financial and insurance activities (ISIC rev4)",2009,2009,"Percentage","units",-6.382568672543
+"4227","Germany","Financial and insurance activities (ISIC rev4)",2011,2011,"Percentage","units",0.759997349187715
+"4229","Germany","Financial and insurance activities (ISIC rev4)",2013,2013,"Percentage","units",-1.48831916724118
+"4231","Germany","Real estate activities (ISIC rev4)",2008,2008,"Percentage","units",2.20505234834217
+"4233","Germany","Real estate activities (ISIC rev4)",2010,2010,"Percentage","units",-1.19553519942115
+"4235","Germany","Real estate activities (ISIC rev4)",2012,2012,"Percentage","units",-2.00193223709994
+"4237","Germany","Real estate activities (ISIC rev4)",2014,2014,"Percentage","units",1.21723794598897
+"4239","Germany","Prof., scientific, techn.; admin., support serv. activities (ISIC rev4)",2009,2009,"Percentage","units",-10.473349549978
+"4241","Germany","Prof., scientific, techn.; admin., support serv. activities (ISIC rev4)",2011,2011,"Percentage","units",2.18999832816151
+"4243","Germany","Prof., scientific, techn.; admin., support serv. activities (ISIC rev4)",2013,2013,"Percentage","units",0.933941238054393
+"4245","Germany","Public admin.; compulsory s.s.; education; human health (ISIC rev4)",2008,2008,"Percentage","units",2.76742894558334
+"4247","Germany","Public admin.; compulsory s.s.; education; human health (ISIC rev4)",2010,2010,"Percentage","units",1.88487022194558
+"4249","Germany","Public admin.; compulsory s.s.; education; human health (ISIC rev4)",2012,2012,"Percentage","units",1.0185912674926
+"4251","Germany","Public admin.; compulsory s.s.; education; human health (ISIC rev4)",2014,2014,"Percentage","units",1.20517436079616
+"4253","Germany","Other service activities (ISIC rev4)",2009,2009,"Percentage","units",-2.77187537614295
+"4255","Germany","Other service activities (ISIC rev4)",2011,2011,"Percentage","units",0.660004753588443
+"4257","Germany","Other service activities (ISIC rev4)",2013,2013,"Percentage","units",-1.59848988988336
+"4260","Greece","Gross domestic product (output approach)",2009,2009,"Euro","millions",239245.446204
+"4262","Greece","Gross domestic product (output approach)",2011,2011,"Euro","millions",206159.091946
+"4264","Greece","Gross domestic product (output approach)",2013,2013,"Euro","millions",185108.078247
+"4266","Greece","Gross value added at basic prices, excluding FISIM",2008,2008,"Euro","millions",219452.76192
+"4268","Greece","Gross value added at basic prices, excluding FISIM",2010,2010,"Euro","millions",199645.359962
+"4270","Greece","Gross value added at basic prices, excluding FISIM",2012,2012,"Euro","millions",171743.610252
+"4272","Greece","Gross value added at basic prices, excluding FISIM",2014,2014,"Euro","millions",166240.742796
+"4274","Greece","Gross value added at basic prices, total activity",2009,2009,"Euro","millions",211714.708511
+"4276","Greece","Gross value added at basic prices, total activity",2011,2011,"Euro","millions",182114.636706
+"4278","Greece","Gross value added at basic prices, total activity",2013,2013,"Euro","millions",165386.819362
+"4280","Greece","of which: Manufacturing (ISIC rev4)",2008,2008,"Euro","millions",18736.072536
+"4282","Greece","of which: Manufacturing (ISIC rev4)",2010,2010,"Euro","millions",15452.843391
+"4284","Greece","of which: Manufacturing (ISIC rev4)",2012,2012,"Euro","millions",12748.604411
+"4286","Greece","of which: Manufacturing (ISIC rev4)",2014,2014,"Euro","millions",12272.983423
+"4288","Greece","Final consumption expenditure",2009,2009,"Euro","millions",221618.514639
+"4290","Greece","Final consumption expenditure",2011,2011,"Euro","millions",187307.945235
+"4292","Greece","Final consumption expenditure",2013,2013,"Euro","millions",168631.52444
+"4294","Greece","Gross domestic product (expenditure approach)",2008,2008,"Euro","millions",250243.985931
+"4296","Greece","Gross domestic product (expenditure approach)",2010,2010,"Euro","millions",226210.336391
+"4298","Greece","Gross domestic product (expenditure approach)",2012,2012,"Euro","millions",192609.485913
+"4300","Greece","Gross domestic product (expenditure approach)",2014,2014,"Euro","millions",186540.148206
+"4302","Greece","External balance of goods and services",2009,2009,"Euro","millions",-25546.011145
+"4304","Greece","External balance of goods and services",2011,2011,"Euro","millions",-13126.726497
+"4306","Greece","External balance of goods and services",2013,2013,"Euro","millions",-5157.159148
+"4308","Greece","Agriculture, forestry and fishing (ISIC rev4)",2009,2009,"Euro","millions",6201.008729
+"4310","Greece","Agriculture, forestry and fishing (ISIC rev4)",2011,2011,"Euro","millions",6091.786548
+"4312","Greece","Agriculture, forestry and fishing (ISIC rev4)",2013,2013,"Euro","millions",5564.377159
+"4314","Greece","Industry, including energy (ISIC rev4)",2008,2008,"Euro","millions",26848.360763
+"4316","Greece","Industry, including energy (ISIC rev4)",2010,2010,"Euro","millions",21682.547626
+"4318","Greece","Industry, including energy (ISIC rev4)",2012,2012,"Euro","millions",17822.622771
+"4320","Greece","Industry, including energy (ISIC rev4)",2014,2014,"Euro","millions",16271.756803
+"4322","Greece","Construction (ISIC rev4)",2009,2009,"Euro","millions",8809.42149
+"4324","Greece","Construction (ISIC rev4)",2011,2011,"Euro","millions",6915.326532
+"4326","Greece","Construction (ISIC rev4)",2013,2013,"Euro","millions",4156.218585
+"4328","Greece","Distributive trade, repairs; transport; accommod., food serv. (ISIC rev4)",2008,2008,"Euro","millions",57393.871427
+"4330","Greece","Distributive trade, repairs; transport; accommod., food serv. (ISIC rev4)",2010,2010,"Euro","millions",48346.959256
+"4332","Greece","Distributive trade, repairs; transport; accommod., food serv. (ISIC rev4)",2012,2012,"Euro","millions",39929.418565
+"4334","Greece","Distributive trade, repairs; transport; accommod., food serv. (ISIC rev4)",2014,2014,"Euro","millions",41543.490209
+"4336","Greece","Information and communication (ISIC rev4)",2009,2009,"Euro","millions",8578.453533
+"4338","Greece","Information and communication (ISIC rev4)",2011,2011,"Euro","millions",6642.360358
+"4340","Greece","Information and communication (ISIC rev4)",2013,2013,"Euro","millions",6402.03393
+"4342","Greece","Financial and insurance activities (ISIC rev4)",2008,2008,"Euro","millions",10242.924572
+"4344","Greece","Financial and insurance activities (ISIC rev4)",2010,2010,"Euro","millions",9347.379828
+"4346","Greece","Financial and insurance activities (ISIC rev4)",2012,2012,"Euro","millions",7558.15322
+"4348","Greece","Financial and insurance activities (ISIC rev4)",2014,2014,"Euro","millions",6702.473318
+"4350","Greece","Real estate activities (ISIC rev4)",2009,2009,"Euro","millions",31262.962272
+"4352","Greece","Real estate activities (ISIC rev4)",2011,2011,"Euro","millions",35097.491571
+"4354","Greece","Real estate activities (ISIC rev4)",2013,2013,"Euro","millions",34532.398873
+"4356","Greece","Prof., scientific, techn.; admin., support serv. activities (ISIC rev4)",2008,2008,"Euro","millions",14233.820021
+"4358","Greece","Prof., scientific, techn.; admin., support serv. activities (ISIC rev4)",2010,2010,"Euro","millions",10678.6468
+"4360","Greece","Prof., scientific, techn.; admin., support serv. activities (ISIC rev4)",2012,2012,"Euro","millions",8685.70992
+"4362","Greece","Prof., scientific, techn.; admin., support serv. activities (ISIC rev4)",2014,2014,"Euro","millions",7383.423868
+"4364","Greece","Public admin.; compulsory s.s.; education; human health (ISIC rev4)",2009,2009,"Euro","millions",43016.590488
+"4366","Greece","Public admin.; compulsory s.s.; education; human health (ISIC rev4)",2011,2011,"Euro","millions",41187.959216
+"4368","Greece","Public admin.; compulsory s.s.; education; human health (ISIC rev4)",2013,2013,"Euro","millions",36496.654006
+"4370","Greece","Other service activities (ISIC rev4)",2008,2008,"Euro","millions",9857.247541
+"4372","Greece","Other service activities (ISIC rev4)",2010,2010,"Euro","millions",8279.380525
+"4374","Greece","Other service activities (ISIC rev4)",2012,2012,"Euro","millions",7484.600621
+"4376","Greece","Other service activities (ISIC rev4)",2014,2014,"Euro","millions",7460.07069
+"4378","Greece","Gross domestic product (output approach)",2009,2009,"Percentage","units",-4.3948032798406
+"4380","Greece","Gross domestic product (output approach)",2011,2011,"Percentage","units",-8.86367431134839
+"4382","Greece","Gross domestic product (output approach)",2013,2013,"Percentage","units",-3.89511616069758
+"4384","Greece","Gross value added at basic prices, excluding FISIM",2008,2008,"Percentage","units",-0.300320612244192
+"4386","Greece","Gross value added at basic prices, excluding FISIM",2010,2010,"Percentage","units",-5.70076053472351
+"4388","Greece","Gross value added at basic prices, excluding FISIM",2012,2012,"Percentage","units",-5.6947792014887
+"4390","Greece","Gross value added at basic prices, excluding FISIM",2014,2014,"Percentage","units",0.516318916642883
+"4392","Greece","Gross value added at basic prices, total activity",2009,2009,"Percentage","units",-3.5260679069607
+"4394","Greece","Gross value added at basic prices, total activity",2011,2011,"Percentage","units",-8.78093197825221
+"4396","Greece","Gross value added at basic prices, total activity",2013,2013,"Percentage","units",-3.70132599441264
+"4398","Greece","of which: Manufacturing (ISIC rev4)",2008,2008,"Percentage","units",-7.85943248187564
+"4400","Greece","of which: Manufacturing (ISIC rev4)",2010,2010,"Percentage","units",-18.7383238555364
+"4402","Greece","of which: Manufacturing (ISIC rev4)",2012,2012,"Percentage","units",-6.23105434647243
+"4404","Greece","of which: Manufacturing (ISIC rev4)",2014,2014,"Percentage","units",-0.180519208012915
+"4406","Greece","Imports of services",2009,2009,"Percentage","units",-16.3178874684749
+"4408","Greece","Imports of services",2011,2011,"Percentage","units",-12.0631663826993
+"4410","Greece","Imports of services",2013,2013,"Percentage","units",-10.0684389745385
+"4412","Greece","Gross domestic product (expenditure approach)",2008,2008,"Percentage","units",-0.444303748807401
+"4414","Greece","Gross domestic product (expenditure approach)",2010,2010,"Percentage","units",-5.44874511679184
+"4416","Greece","Gross domestic product (expenditure approach)",2012,2012,"Percentage","units",-6.5722555979156
+"4418","Greece","Gross domestic product (expenditure approach)",2014,2014,"Percentage","units",0.774182389044783
+"4420","Greece","Agriculture, forestry and fishing (ISIC rev4)",2009,2009,"Percentage","units",7.37895066716368
+"4422","Greece","Agriculture, forestry and fishing (ISIC rev4)",2011,2011,"Percentage","units",-6.30004137550317
+"4424","Greece","Agriculture, forestry and fishing (ISIC rev4)",2013,2013,"Percentage","units",-7.65890884237071
+"4426","Greece","Industry, including energy (ISIC rev4)",2008,2008,"Percentage","units",-9.02019333551638
+"4428","Greece","Industry, including energy (ISIC rev4)",2010,2010,"Percentage","units",-20.4535531144042
+"4430","Greece","Industry, including energy (ISIC rev4)",2012,2012,"Percentage","units",-8.33106219371611
+"4432","Greece","Industry, including energy (ISIC rev4)",2014,2014,"Percentage","units",-2.05118928245913
+"4434","Greece","Construction (ISIC rev4)",2009,2009,"Percentage","units",-19.3963674359292
+"4436","Greece","Construction (ISIC rev4)",2011,2011,"Percentage","units",-20.5007032255051
+"4438","Greece","Construction (ISIC rev4)",2013,2013,"Percentage","units",-18.9146494517859
+"4440","Greece","Distributive trade, repairs; transport; accommod., food serv. (ISIC rev4)",2008,2008,"Percentage","units",2.0987611289146
+"4442","Greece","Distributive trade, repairs; transport; accommod., food serv. (ISIC rev4)",2010,2010,"Percentage","units",-7.2508856045969
+"4444","Greece","Distributive trade, repairs; transport; accommod., food serv. (ISIC rev4)",2012,2012,"Percentage","units",-4.85500275032462
+"4446","Greece","Distributive trade, repairs; transport; accommod., food serv. (ISIC rev4)",2014,2014,"Percentage","units",6.6743361325123
+"4448","Greece","Information and communication (ISIC rev4)",2009,2009,"Percentage","units",-0.968834613655448
+"4450","Greece","Information and communication (ISIC rev4)",2011,2011,"Percentage","units",-8.83828310257414
+"4452","Greece","Information and communication (ISIC rev4)",2013,2013,"Percentage","units",4.17345377040745
+"4454","Greece","Financial and insurance activities (ISIC rev4)",2008,2008,"Percentage","units",9.39494527482423
+"4456","Greece","Financial and insurance activities (ISIC rev4)",2010,2010,"Percentage","units",-11.0459947980885
+"4458","Greece","Financial and insurance activities (ISIC rev4)",2012,2012,"Percentage","units",-7.05588979617681
+"4460","Greece","Financial and insurance activities (ISIC rev4)",2014,2014,"Percentage","units",-5.55864015987294
+"4462","Greece","Real estate activities (ISIC rev4)",2009,2009,"Percentage","units",0.216445392186928
+"4464","Greece","Real estate activities (ISIC rev4)",2011,2011,"Percentage","units",-3.54992901572472
+"4466","Greece","Real estate activities (ISIC rev4)",2013,2013,"Percentage","units",0.756600402804077
+"4468","Greece","Prof., scientific, techn.; admin., support serv. activities (ISIC rev4)",2008,2008,"Percentage","units",-0.432922657623477
+"4470","Greece","Prof., scientific, techn.; admin., support serv. activities (ISIC rev4)",2010,2010,"Percentage","units",-21.119199317711
+"4472","Greece","Prof., scientific, techn.; admin., support serv. activities (ISIC rev4)",2012,2012,"Percentage","units",-8.8225264211194
+"4474","Greece","Prof., scientific, techn.; admin., support serv. activities (ISIC rev4)",2014,2014,"Percentage","units",-6.70950679695678
+"4476","Greece","Public admin.; compulsory s.s.; education; human health (ISIC rev4)",2009,2009,"Percentage","units",-3.20284247584919
+"4478","Greece","Public admin.; compulsory s.s.; education; human health (ISIC rev4)",2011,2011,"Percentage","units",-2.93833136032748
+"4480","Greece","Public admin.; compulsory s.s.; education; human health (ISIC rev4)",2013,2013,"Percentage","units",-5.30512715398668
+"4482","Greece","Other service activities (ISIC rev4)",2008,2008,"Percentage","units",-2.90776351529955
+"4484","Greece","Other service activities (ISIC rev4)",2010,2010,"Percentage","units",-22.5358755239426
+"4486","Greece","Other service activities (ISIC rev4)",2012,2012,"Percentage","units",5.23418159611466
+"4488","Greece","Other service activities (ISIC rev4)",2014,2014,"Percentage","units",-0.432766361667034
+"7498","Greece","Intellectual property product",2009,2009,"Euro","millions",3602.615719
+"7500","Greece","Intellectual property product",2011,2011,"Euro","millions",3413.616544
+"7502","Greece","Intellectual property product",2013,2013,"Euro","millions",2685.027395
+"8088","Greece","Exports of goods and services",2008,2008,"Percentage","units",3.49830091045353
+"8090","Greece","Exports of goods and services",2010,2010,"Percentage","units",4.63053133674012
+"8092","Greece","Exports of goods and services",2012,2012,"Percentage","units",1.15045408631317
+"8094","Greece","Exports of goods and services",2014,2014,"Percentage","units",8.959917504257
+"8170","Greece","Dwellings",2009,2009,"Euro","millions",15246.313144
+"8172","Greece","Dwellings",2011,2011,"Euro","millions",9577.53
+"8174","Greece","Dwellings",2013,2013,"Euro","millions",4640.542248
+"8220","Greece","Exports of services",2008,2008,"Percentage","units",6.26229152061556
+"8222","Greece","Exports of services",2010,2010,"Percentage","units",2.5432285146147
+"8224","Greece","Exports of services",2012,2012,"Percentage","units",-4.34383586470256
+"8226","Greece","Exports of services",2014,2014,"Percentage","units",12.8795798047041
+"8296","Greece","Exports of goods",2008,2008,"Percentage","units",0.0678170993766821
+"8298","Greece","Exports of goods",2010,2010,"Percentage","units",7.18827910724658
+"8300","Greece","Exports of goods",2012,2012,"Percentage","units",6.48672413643373
+"8302","Greece","Exports of goods",2014,2014,"Percentage","units",5.68052750602703
+"8356","Greece","Statistical discrepancy",2008,2008,"Euro","millions",-82.326368
+"8358","Greece","Statistical discrepancy",2010,2010,"Euro","millions",0
+"8360","Greece","Statistical discrepancy",2012,2012,"Euro","millions",-86.632133
+"8362","Greece","Statistical discrepancy",2014,2014,"Euro","millions",-63.10937
+"8548","Greece","Imports of goods and services",2008,2008,"Percentage","units",2.55729296368791
+"8550","Greece","Imports of goods and services",2010,2010,"Percentage","units",-5.48603088988661
+"8552","Greece","Imports of goods and services",2012,2012,"Percentage","units",-9.1131393082247
+"8554","Greece","Imports of goods and services",2014,2014,"Percentage","units",7.41483063023633
+"8636","Greece","Statistical discrepancy",2009,2009,"Euro","millions",183.539247
+"8638","Greece","Statistical discrepancy",2011,2011,"Euro","millions",0
+"8640","Greece","Statistical discrepancy",2013,2013,"Euro","millions",480.164385
+"8738","Greece","Households and Non-profit institutions serving households",2009,2009,"Percentage","units",-1.01843739775602
+"8740","Greece","Households and Non-profit institutions serving households",2011,2011,"Percentage","units",-10.6138082083664
+"8742","Greece","Households and Non-profit institutions serving households",2013,2013,"Percentage","units",-1.97721892477459
+"8798","Greece","Imports of goods and services",2008,2008,"Euro","millions",91346.545293
+"8800","Greece","Imports of goods and services",2010,2010,"Euro","millions",69384.289275
+"8802","Greece","Imports of goods and services",2012,2012,"Euro","millions",57359.350213
+"8804","Greece","Imports of goods and services",2014,2014,"Euro","millions",60599.658609
+"8970","Greece","Final consumption expenditure of non-profit institutions serving households",2008,2008,"Percentage","units",-2.93193886426042
+"8972","Greece","Final consumption expenditure of non-profit institutions serving households",2010,2010,"Percentage","units",0.547785404336743
+"8974","Greece","Final consumption expenditure of non-profit institutions serving households",2012,2012,"Percentage","units",0.765069163545099
+"8976","Greece","Final consumption expenditure of non-profit institutions serving households",2014,2014,"Percentage","units",1.34867289831181
+"9048","Greece","Exports of goods and services",2009,2009,"Euro","millions",47771.740976
+"9050","Greece","Exports of goods and services",2011,2011,"Euro","millions",49983.991351
+"9052","Greece","Exports of goods and services",2013,2013,"Euro","millions",51644.635286
+"9136","Greece","Gross capital formation",2009,2009,"Euro","millions",42990.212288
+"9138","Greece","Gross capital formation",2011,2011,"Euro","millions",31977.548281
+"9140","Greece","Gross capital formation",2013,2013,"Euro","millions",21152.552101
+"9296","Greece","Other buildings and structures",2008,2008,"Euro","millions",10025.769506
+"9298","Greece","Other buildings and structures",2010,2010,"Euro","millions",8744.68596
+"9300","Greece","Other buildings and structures",2012,2012,"Euro","millions",5740.978534
+"9302","Greece","Other buildings and structures",2014,2014,"Euro","millions",5862.092863
+"9470","Greece","Domestic demand",2008,2008,"Euro","millions",282711.370268168
+"9472","Greece","Domestic demand",2010,2010,"Euro","millions",245610.799254
+"9474","Greece","Domestic demand",2012,2012,"Euro","millions",199154.878225314
+"9476","Greece","Domestic demand",2014,2014,"Euro","millions",190519.36915496
+"9576","Greece","Imports of goods",2008,2008,"Euro","millions",73758.954241
+"9578","Greece","Imports of goods",2010,2010,"Euro","millions",53675.127129
+"9580","Greece","Imports of goods",2012,2012,"Euro","millions",45294.451675
+"9582","Greece","Imports of goods",2014,2014,"Euro","millions",49296.802283
+"9718","Greece","Taxes less subsidies on products",2008,2008,"Euro","millions",30872.704373
+"9720","Greece","Taxes less subsidies on products",2010,2010,"Euro","millions",26564.211675
+"9722","Greece","Taxes less subsidies on products",2012,2012,"Euro","millions",20953.502069
+"9724","Greece","Taxes less subsidies on products",2014,2014,"Euro","millions",20363.518963
+"9974","Greece","Transport equipment",2009,2009,"Euro","millions",9425.458892
+"9976","Greece","Transport equipment",2011,2011,"Euro","millions",5357.732159
+"9978","Greece","Transport equipment",2013,2013,"Euro","millions",2711.613222
+"9994","Greece","of which: Actual individual consumption",2008,2008,"Euro","millions",197401.584077
+"9996","Greece","of which: Actual individual consumption",2010,2010,"Euro","millions",183415.951479
+"9998","Greece","of which: Actual individual consumption",2012,2012,"Euro","millions",151601.640019
+"10000","Greece","of which: Actual individual consumption",2014,2014,"Euro","millions",148082.297186
+"10200","Greece","Final consumption expenditure of households",2008,2008,"Euro","millions",168738.202954
+"10202","Greece","Final consumption expenditure of households",2010,2010,"Euro","millions",154146.180872
+"10204","Greece","Final consumption expenditure of households",2012,2012,"Euro","millions",126247.726269
+"10206","Greece","Final consumption expenditure of households",2014,2014,"Euro","millions",125334.197075
+"10632","Greece","Gross fixed capital formation",2008,2008,"Euro","millions",56904.945418
+"10634","Greece","Gross fixed capital formation",2010,2010,"Euro","millions",39057.252376
+"10636","Greece","Gross fixed capital formation",2012,2012,"Euro","millions",23169.715518
+"10638","Greece","Gross fixed capital formation",2014,2014,"Euro","millions",21517.15034
+"10674","Greece","Final consumption expenditure of households",2009,2009,"Percentage","units",-1.41849378747533
+"10676","Greece","Final consumption expenditure of households",2011,2011,"Percentage","units",-10.8899576635889
+"10678","Greece","Final consumption expenditure of households",2013,2013,"Percentage","units",-2.04374110825754
+"10768","Greece","Final consumption expenditure of general government",2008,2008,"Percentage","units",-2.1475540416635
+"10770","Greece","Final consumption expenditure of general government",2010,2010,"Percentage","units",-4.32552253060944
+"10772","Greece","Final consumption expenditure of general government",2012,2012,"Percentage","units",-4.99157550302476
+"10774","Greece","Final consumption expenditure of general government",2014,2014,"Percentage","units",-0.893061358983096
+"10832","Greece","Gross fixed capital formation",2008,2008,"Percentage","units",-6.63633002871248
+"10834","Greece","Gross fixed capital formation",2010,2010,"Percentage","units",-20.9275721276031
+"10836","Greece","Gross fixed capital formation",2012,2012,"Percentage","units",-28.6645917568058
+"10838","Greece","Gross fixed capital formation",2014,2014,"Percentage","units",2.65799367003354
+"10956","Greece","Imports of services",2009,2009,"Euro","millions",14781.706192
+"10958","Greece","Imports of services",2011,2011,"Euro","millions",13814.139779
+"10960","Greece","Imports of services",2013,2013,"Euro","millions",10829.722684
+"11310","Greece","Taxes on products",2008,2008,"Euro","millions",31342.135511
+"11312","Greece","Taxes on products",2010,2010,"Euro","millions",26912.083
+"11314","Greece","Taxes on products",2012,2012,"Euro","millions",21302.774473
+"11316","Greece","Taxes on products",2014,2014,"Euro","millions",20720.064791
+"11344","Greece","Final consumption expenditure of general government",2009,2009,"Euro","millions",51110.674892
+"11346","Greece","Final consumption expenditure of general government",2011,2011,"Euro","millions",45684.391143
+"11348","Greece","Final consumption expenditure of general government",2013,2013,"Euro","millions",40597.679807
+"11726","Greece","Individual consumption expenditure of general government",2008,2008,"Euro","millions",25207.724658
+"11728","Greece","Individual consumption expenditure of general government",2010,2010,"Euro","millions",24975.871134
+"11730","Greece","Individual consumption expenditure of general government",2012,2012,"Euro","millions",21031.79778
+"11732","Greece","Individual consumption expenditure of general government",2014,2014,"Euro","millions",18127.254904
+"12182","Greece","Exports of goods",2008,2008,"Euro","millions",25192.874523
+"12184","Greece","Exports of goods",2010,2010,"Euro","millions",23458.719946
+"12186","Greece","Exports of goods",2012,2012,"Euro","millions",26211.872125
+"12188","Greece","Exports of goods",2014,2014,"Euro","millions",28389.455176
+"12300","Greece","Gross capital formation",2009,2009,"Percentage","units",-27.7297485821134
+"12302","Greece","Gross capital formation",2011,2011,"Percentage","units",-16.4441078781407
+"12304","Greece","Gross capital formation",2013,2013,"Percentage","units",-16.4693002500717
+"12362","Greece","of which: Actual individual consumption",2008,2008,"Percentage","units",2.53201772260387
+"12364","Greece","of which: Actual individual consumption",2010,2010,"Percentage","units",-5.97883035093409
+"12366","Greece","of which: Actual individual consumption",2012,2012,"Percentage","units",-8.07759362567562
+"12368","Greece","of which: Actual individual consumption",2014,2014,"Percentage","units",0.43563563164911
+"12834","Greece","Imports of goods",2009,2009,"Percentage","units",-20.4368567858855
+"12836","Greece","Imports of goods",2011,2011,"Percentage","units",-8.15750104974474
+"12838","Greece","Imports of goods",2013,2013,"Percentage","units",0.424309591777391
+"13320","Greece","Collective consumption expenditure of general government",2008,2008,"Percentage","units",-3.82622002211579
+"13322","Greece","Collective consumption expenditure of general government",2010,2010,"Percentage","units",-9.60507753883617
+"13324","Greece","Collective consumption expenditure of general government",2012,2012,"Percentage","units",-0.0546516431867148
+"13326","Greece","Collective consumption expenditure of general government",2014,2014,"Percentage","units",4.1061648076279
+"13334","Greece","Cultivated biological ressources",2009,2009,"Euro","millions",130.324025
+"13336","Greece","Cultivated biological ressources",2011,2011,"Euro","millions",107.864291
+"13338","Greece","Cultivated biological ressources",2013,2013,"Euro","millions",117.195478
+"13508","Greece","Households and Non-profit institutions serving households",2008,2008,"Euro","millions",172374.070303
+"13510","Greece","Households and Non-profit institutions serving households",2010,2010,"Euro","millions",158440.080345
+"13512","Greece","Households and Non-profit institutions serving households",2012,2012,"Euro","millions",130547.494294
+"13514","Greece","Households and Non-profit institutions serving households",2014,2014,"Euro","millions",129690.90883
+"13586","Greece","Domestic demand",2008,2008,"Percentage","units",-0.301033577672497
+"13588","Greece","Domestic demand",2010,2010,"Percentage","units",-7.19533958995713
+"13590","Greece","Domestic demand",2012,2012,"Percentage","units",-9.18009439106692
+"13592","Greece","Domestic demand",2014,2014,"Percentage","units",0.511668622807184
+"13694","Greece","Collective consumption expenditure of general government",2009,2009,"Euro","millions",26466.088303
+"13696","Greece","Collective consumption expenditure of general government",2011,2011,"Euro","millions",22384.455959
+"13698","Greece","Collective consumption expenditure of general government",2013,2013,"Euro","millions",21235.882383
+"14784","Greece","Individual consumption expenditure of general government",2009,2009,"Percentage","units",-2.23399008296166
+"14786","Greece","Individual consumption expenditure of general government",2011,2011,"Percentage","units",-6.71022020016161
+"14788","Greece","Individual consumption expenditure of general government",2013,2013,"Percentage","units",-7.94035951880477
+"14984","Greece","Final consumption expenditure",2008,2008,"Percentage","units",1.78197862213808
+"14986","Greece","Final consumption expenditure",2010,2010,"Percentage","units",-6.44285662831858
+"14988","Greece","Final consumption expenditure",2012,2012,"Percentage","units",-7.16136801307109
+"14990","Greece","Final consumption expenditure",2014,2014,"Percentage","units",0.85651597398321
+"15566","Greece","Subsidies on products",2008,2008,"Euro","millions",467.07428
+"15568","Greece","Subsidies on products",2010,2010,"Euro","millions",347.871325
+"15570","Greece","Subsidies on products",2012,2012,"Euro","millions",351.546005
+"15572","Greece","Subsidies on products",2014,2014,"Euro","millions",360.762068
+"16106","Greece","Transport equipment",2009,2009,"Percentage","units",-16.0638705086133
+"16108","Greece","Transport equipment",2011,2011,"Percentage","units",-29.9125730848832
+"16110","Greece","Transport equipment",2013,2013,"Percentage","units",17.3841180057563
+"16664","Greece","Exports of services",2009,2009,"Euro","millions",25867.243357
+"16666","Greece","Exports of services",2011,2011,"Euro","millions",25368.836423
+"16668","Greece","Exports of services",2013,2013,"Euro","millions",24689.399097
+"17105","Germany","Transport equipment",2009,2009,"Percentage","units",-23.5470790905608
+"17107","Germany","Transport equipment",2011,2011,"Percentage","units",-3.67999570608126
+"17109","Germany","Transport equipment",2013,2013,"Percentage","units",-1.45336627249968
+"17210","Greece","Final consumption expenditure of non-profit institutions serving households",2009,2009,"Euro","millions",4270.506263
+"17212","Greece","Final consumption expenditure of non-profit institutions serving households",2011,2011,"Euro","millions",4263.827057
+"17214","Greece","Final consumption expenditure of non-profit institutions serving households",2013,2013,"Euro","millions",4294.08918
+"17777","Germany","Other buildings and structures",2008,2008,"Percentage","units",2.88170269208804
+"17779","Germany","Other buildings and structures",2010,2010,"Percentage","units",1.73975211221467
+"17781","Germany","Other buildings and structures",2012,2012,"Percentage","units",-2.92815967586736
+"17783","Germany","Other buildings and structures",2014,2014,"Percentage","units",2.7146206461054
+"18002","Greece","Dwellings",2009,2009,"Percentage","units",-18.7891909030948
+"18004","Greece","Dwellings",2011,2011,"Percentage","units",-14.8070451217479
+"18006","Greece","Dwellings",2013,2013,"Percentage","units",-27.6044394164829
+"18090","Greece","Other buildings and structures",2009,2009,"Percentage","units",4.8374893588941
+"18092","Greece","Other buildings and structures",2011,2011,"Percentage","units",-12.4482595713477
+"18094","Greece","Other buildings and structures",2013,2013,"Percentage","units",-4.17997253567156
+"18259","Germany","Dwellings",2009,2009,"Percentage","units",-3.36660030919758
+"18261","Germany","Dwellings",2011,2011,"Percentage","units",10.0499977488632
+"18263","Germany","Dwellings",2013,2013,"Percentage","units",0.624396309885713
+"19565","Germany","External balance of goods and services",2008,2008,"Percentage","units",0.339102124942208
+"19567","Germany","External balance of goods and services",2010,2010,"Percentage","units",28.1998116614398
+"19569","Germany","External balance of goods and services",2012,2012,"Percentage","units",21.8510919495639
+"19571","Germany","External balance of goods and services",2014,2014,"Percentage","units",5.72602081850644
+"19573","Germany","Intellectual property product",2009,2009,"Percentage","units",1.19730640210584
+"19575","Germany","Intellectual property product",2011,2011,"Percentage","units",6.79999767844084
+"19577","Germany","Intellectual property product",2013,2013,"Percentage","units",1.3092611708339
+"19580","Greece","External balance of goods and services",2009,2009,"Percentage","units",-21.734071097449
+"19582","Greece","External balance of goods and services",2011,2011,"Percentage","units",-32.3380756959417
+"19584","Greece","External balance of goods and services",2013,2013,"Percentage","units",-25.5178182220297
+"19586","Greece","Cultivated biological ressources",2009,2009,"Percentage","units",-3.90348901925176
+"19588","Greece","Cultivated biological ressources",2011,2011,"Percentage","units",42.7719820827099
+"19590","Greece","Cultivated biological ressources",2013,2013,"Percentage","units",44.6207673809834
+"19592","Greece","Intellectual property product",2008,2008,"Percentage","units",-10.9243828935815
+"19594","Greece","Intellectual property product",2010,2010,"Percentage","units",5.429150574358
+"19596","Greece","Intellectual property product",2012,2012,"Percentage","units",-22.6501424818499
+"19598","Greece","Intellectual property product",2014,2014,"Percentage","units",-1.23795068392589
